@@ -1,0 +1,30 @@
+baseURL = 'https://retracement.me/'
+languageCode = 'en-us'
+title = 'retracement.me'
+theme = 'not-much'
+
+
+# Controls the navigation
+[[menu.main]]
+  identifier = "posts"
+  name = "posts"
+  title = "Posts"
+  url = "/posts"
+
+[[menu.main]]
+  identifier = "github"
+  name = "github"
+  title = "GitHub"
+  url = "https://github.com/retracement"
+  
+[[menu.main]]
+  identifier = "x"
+  name = "x"
+  title = "x"
+  url = "https://x.com/retracement/"
+
+[[menu.main]]
+  identifier = "youtube"
+  name = "youtube"
+  title = "youtube"
+
